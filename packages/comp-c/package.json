@@ -1,5 +1,5 @@
 {
-  "name": "comp-c",
+  "name": "@jbastias/comp-c",
   "version": "0.0.1-alpha.0",
   "description": "> TODO: description",
   "author": "jbastias <jorgebastias@hotmail.com>",
@@ -18,5 +18,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "7b68a578d7aed9b595dd140cf2148f1e34fbd58f"
 }
